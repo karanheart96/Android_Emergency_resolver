@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Emergency Resolver</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Emergency Resolver</string>
+    <string name="nav_header_subtitle">www.nena.org (or) call 911</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">EMERGENCY CONTACT DETAILS</string>
+    <string name="name">Enter Name</string>
+    <string name="phno">Enter PH NO</string>
+    <string name="add">ADD NEW</string>
+    <string name="show">DISPLAY ALL</string>
+    <string name="delete">DELETE ALL</string>
+</resources>
